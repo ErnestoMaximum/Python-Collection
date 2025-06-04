@@ -1,6 +1,6 @@
 # 🚀 Pull Request
 # 📝 Summery 
-Explain the perpus of this pull request
+Explain the purpose of this pull request
 
 ## 📌 Description
 <!-- Describe your changes in detail -->
