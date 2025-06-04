@@ -12,7 +12,6 @@ This repo contains a growing collection of scripts, exercises, and mini-projects
 - Variables, data types, and control flow
 - Functions and modules
 - File handling
-
 - Error handling and debugging
 - Object-Oriented Programming (OOP)
 - Scripting and automation
@@ -60,10 +59,8 @@ Python-Collection/
 - Practice platforms like HackerRank and LeetCode
 
 ---
-
-##  Contributions
-
-This is a personal learning repo, Do not contribute.
+## Contributions
+This is a personal learning repo, Do not contribute. 
 
 ---
 
