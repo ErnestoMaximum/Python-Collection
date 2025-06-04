@@ -12,7 +12,7 @@ This repo contains a growing collection of scripts, exercises, and mini-projects
 - Variables, data types, and control flow
 - Functions and modules
 - File handling
-- Working with APIs
+
 - Error handling and debugging
 - Object-Oriented Programming (OOP)
 - Scripting and automation
@@ -61,9 +61,9 @@ Python-Collection/
 
 ---
 
-## 🙌 Contributions
+##  Contributions
 
-This is a personal learning repo, but feel free to open issues or pull requests with helpful tips or suggestions!
+This is a personal learning repo, Do not contribute.
 
 ---
 
