@@ -1,7 +1,7 @@
 import random
 
 computer_choice = random.choice(['rock', 'paper', 'scissors'])
-user_choice = input('What path do you want to take rock, paper, or scissors?\n')
+user_choice = input('What path do you want to take rock, paper, scissors?\n')
 
 print('computers choice is:', computer_choice)
 
@@ -17,4 +17,4 @@ elif user_choice == 'rock' and computer_choice == 'scissors':
 elif user_choice == 'scissors' and computer_choice == 'Paper':  
         print('YOU WIN!!')
 else:
-   print('YOU LOSE!!')
+   print('YOU LOSE, COMPUTER WINS:)')
