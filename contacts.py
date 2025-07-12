@@ -12,4 +12,3 @@ contacts = {
 print('Student Emails:')
 for student in contacts['students']:
     print(student ['email'])
-    pip3 --version 
